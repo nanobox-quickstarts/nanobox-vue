@@ -1,4 +1,4 @@
-![Vue from scratch](https://guides.nanobox.io/assets/quickstart-icons/vue.png)
+![Vue from scratch](https://guides.nanobox.io/assets/quickstart-icons/vuejs.png)
 
 # Vue from scratch
 
