@@ -20,16 +20,14 @@ cd nanobox-vue
 ## Run the app
 
 ```bash
+# Add a convenient way to access your app from the browser
+nanobox dns add local vue.dev
+
 # Run vue as you would normally, with Nanobox
 nanobox run npm run dev --host 0.0.0.0
 ```
 
 ## Check it out
-
-```bash
-# Add a convenient way to access your app from the browser
-nanobox dns add local vue.dev
-```
 
 Visit your app at <a href="http://vue.dev" target="\_blank">vue.dev</a>
 
