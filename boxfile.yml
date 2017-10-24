@@ -1,2 +1,5 @@
 run.config:
   engine: nodejs
+
+web.app:
+  start: "npm run dev --host 0.0.0.0"
